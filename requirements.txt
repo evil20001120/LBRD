@@ -1,0 +1,6 @@
+torch==1.13.1
+numpy>=1.21
+scikit-learn>=1.0
+scipy>=1.7
+matplotlib>=3.5
+h5py>=3.7
